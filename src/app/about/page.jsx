@@ -14,7 +14,6 @@ export const metadata = {
 export default function AboutPage() {
   return (
     <>
-    
       <AboutHero />
 
       {/* Diagonal section separator */}
