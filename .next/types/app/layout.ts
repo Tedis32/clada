@@ -1,4 +1,4 @@
-// File: C:\Users\User\Desktop\clada-dev-service\clada\src\app\layout.js
+// File: C:\Users\User\Desktop\clada-dev-service\clada\src\app\layout.jsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
