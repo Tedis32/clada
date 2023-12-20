@@ -10,7 +10,7 @@ const contact = {
     zip: "90001",
   },
   phone: "(415) 555-1234",
-  email: "hello@crator.com",
+  email: "hello@Clada.com",
 };
 
 const footerLinks = [
@@ -30,7 +30,7 @@ export const Footer = () => {
           <div className="flex items-center">
             <Link href="/" className="text-2xl font-black lg:block group">
               <span className="text-white transition duration-200 ease-in-out group-hover:text-dark-300">
-                Crator{" "}
+                Clada{" "}
               </span>
               <span className="transition duration-200 ease-in-out text-dark-300 group-hover:text-white">
                 Studio
@@ -38,7 +38,7 @@ export const Footer = () => {
             </Link>
           </div>
           <div className="mt-6 text-lg md:mt-8 text-dark-300">
-            © {new Date().getFullYear()} Crator Studio.
+            © {new Date().getFullYear()} Cladatudio.
             <br /> All rights reserved.
           </div>
         </div>

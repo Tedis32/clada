@@ -122,7 +122,7 @@ export const Navbar = () => {
               className="block text-2xl font-black md:hidden lg:block group"
             >
               <span className="text-white transition duration-200 ease-in-out group-hover:text-dark-300">
-                Crator{" "}
+                Clada{" "}
               </span>
               <span className="transition duration-200 ease-in-out text-dark-300 group-hover:text-white">
                 Studio

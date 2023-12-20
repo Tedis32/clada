@@ -23,7 +23,7 @@ export const ServicesHero = () => {
             <div>
               <p className="max-w-lg text-xl lg:mx-auto text-dark-300 sm:max-w-3xl">
                 Elevating businesses with expertly designed and executed digital
-                strategies. Crator is here to help you conquer the online space
+                strategies. Clada is here to help you conquer the online space
                 one pexel at a time.
               </p>
               <div className="mt-8 sm:flex sm:justify-start">

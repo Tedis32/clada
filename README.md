@@ -151,7 +151,7 @@ You can optionally set `featured: true` in order for the case study to be shown 
 
 ## Font
 
-This template uses the `Inter` Font family from the [Google Fonts Library](https://fonts.google.com/specimen/Inter). Crator uses the new Next.js font system with `next/font` which allows you to conveniently use Google Fonts with performance and privacy in mind.
+This template uses the `Inter` Font family from the [Google Fonts Library](https://fonts.google.com/specimen/Inter). Clada uses the new Next.js font system with `next/font` which allows you to conveniently use Google Fonts with performance and privacy in mind.
 
 ## Icons
 

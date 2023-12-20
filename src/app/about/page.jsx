@@ -6,7 +6,7 @@ import { Team } from "@/components/Team";
 import { CallToAction } from "@/components/CallToAction";
 
 export const metadata = {
-  title: "About us - Crator",
+  title: "About us - Clada",
   description:
     "We're a creative, strategic and technically awesome web design agency. Our design team are experts, our developers are clever and our strategies are proven.",
 };

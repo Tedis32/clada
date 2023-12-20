@@ -26,28 +26,28 @@ const testimonials = [
     name: "Katy Perry",
     jobTitle: "CEO, Spotify",
     testimonial:
-      "Working with Crator was a game-changer. Their creative vision truly amplified our brand's potential.",
+      "Working with Clada was a game-changer. Their creative vision truly amplified our brand's potential.",
     image: testimonialImage1,
   },
   {
     name: "Henry Krasner",
     jobTitle: "CEO, Twitter",
     testimonial:
-      "Crator's innovative design solutions played a key role in our product's successful launch.",
+      "Clada's innovative design solutions played a key role in our product's successful launch.",
     image: testimonialImage2,
   },
   {
     name: "Bob Foster",
     jobTitle: "CEO, Amazon",
     testimonial:
-      "Crator's team is exceptional. Their commitment to quality exceeded our highest expectations.",
+      "Clada's team is exceptional. Their commitment to quality exceeded our highest expectations.",
     image: testimonialImage3,
   },
   {
     name: "Ema Roberts",
     jobTitle: "Founder, Dropbox",
     testimonial:
-      "From concept to execution, Crator's approach was seamlessly integrated and highly efficient.",
+      "From concept to execution, Clada's approach was seamlessly integrated and highly efficient.",
     image: testimonialImage4,
   },
 ];

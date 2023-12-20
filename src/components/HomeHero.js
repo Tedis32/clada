@@ -32,7 +32,7 @@ export const HomeHero = () => {
                 Let’s make your product a success
               </h1>
               <p className="mt-6 text-xl text-dark-300">
-                Crator is your partner in digital innovation. We fuse strategic
+                Clada is your partner in digital innovation. We fuse strategic
                 thinking with standout design and development to deliver
                 uniquely tailored solutions.
               </p>
@@ -52,7 +52,7 @@ export const HomeHero = () => {
           <div className="relative flex items-center justify-center w-full max-w-xl mx-auto mt-12 sm:mt-16 lg:mt-0 lg:max-w-none">
             <Image
               src={heroImage}
-              alt="Crator studio office"
+              alt="Clada studio office"
               priority
               className="z-30 object-cover w-auto h-full shadow-md rounded-3xl"
               sizes="(min-width: 1280px) 36.5rem, (min-width: 1024px) calc(50vw - 5rem), (min-width: 640px) 36rem, calc(100vw - 4rem)"
