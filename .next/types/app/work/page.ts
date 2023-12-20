@@ -1,4 +1,4 @@
-// File: C:\Users\User\Downloads\crator-next\crator-next\src\app\work\page.jsx
+// File: C:\Users\User\Desktop\clada-dev-service\clada\src\app\work\page.jsx
 import * as entry from '../../../../src/app/work/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

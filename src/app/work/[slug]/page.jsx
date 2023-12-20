@@ -10,7 +10,7 @@ export async function generateMetadata({ params: { slug } }) {
   const caseStudy = getCaseStudy(slug);
 
   return {
-    title: `${caseStudy.name} - Clada
+    title: `${caseStudy.name} - Clada`,
     description: caseStudy.shortDescription,
   };
 }
