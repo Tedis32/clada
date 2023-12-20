@@ -18,6 +18,7 @@ export async function generateMetadata({ params: { slug } }) {
 export default function CaseStudyPage({ params: { slug } }) {
   const caseStudy = getCaseStudy(slug);
 
+  
   return (
     <>
       {caseStudy?.hero && <CaseStudyHero data={caseStudy} />}
