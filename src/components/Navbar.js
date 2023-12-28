@@ -125,7 +125,7 @@ export const Navbar = () => {
                 Clada{" "}
               </span>
               <span className="transition duration-200 ease-in-out text-dark-300 group-hover:text-white">
-                Studio
+                Hub
               </span>
             </Link>
 

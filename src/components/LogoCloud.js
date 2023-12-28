@@ -201,7 +201,7 @@ export const LogoCloud = () => {
           Our partners
         </p>
         <h2 className="mt-6 text-3xl font-extrabold text-white sm:text-4xl md:text-5xl">
-          Trusted by the best companies in the business
+          Trusted by pioneering entrepreneurs and businesses
         </h2>
         <p className="mt-6 text-xl text-dark-300">
           Collaborating with various sectors, we’ve helped startups and
