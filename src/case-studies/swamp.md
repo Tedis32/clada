@@ -1,7 +1,7 @@
 ---
 name: The Swamp
 shortDescription: Primary product of the Seagen web3 project. A robust ERC20 token auditing tool for providing high-level insights into crypto-currencies on the Ethereum marketplace. Our original design is focused on providing a comfortable/familiar setting for people to use the platform.
-category: web3
+category: Web3
 image: "/swamp.PNG"
 featured: true
 date: Feb. 2022
