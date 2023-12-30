@@ -11,19 +11,19 @@ const services = [
   {
     label: "Web Design",
     description:
-      "We craft visually stunning, unforgettable experiences with responsive design at the forefront.",
+      "We craft visually stunning, web-sites with responsive, modern design at the forefront.",
     icon: "artboard",
   },
   {
     label: "Web Development",
     description:
-      "We excell at converting eye-catching designs into high-functioning, user-friendly web applications.",
+      "We can convert any design into a fully functional, responsive websites. We are also capable of working with existing codebases.",
     icon: "code",
   },
   {
     label: "Maintenance & Optimization",
     description:
-      "We ensure your site remains an effective, optimized tool for your business needs, goals and growth.",
+      "Any website provided by Clada comes with FREE full support for 2 years. We also offer maintenance and optimization services for existing websites.",
     icon: "tool",
   },
 ];
@@ -39,13 +39,12 @@ export const ServicesOverview = () => {
         <div className="grid w-full gap-6 mt-6 lg:grid-cols-5">
           <div className="lg:col-span-3">
             <h2 className="text-3xl font-extrabold text-white sm:text-4xl md:text-5xl">
-              We create digital products that help you get ahead
+              We build websites that help your business get ahead.
             </h2>
           </div>
           <div className="lg:col-span-2">
             <p className="text-xl text-dark-300">
-              From fresh ideas to fully-realized designs, we cover every aspect
-              of your digital presence.
+              Book a FREE consultation to discuss your business needs and goals.
             </p>
           </div>
         </div>

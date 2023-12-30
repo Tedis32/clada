@@ -10,7 +10,7 @@ export default function HomePage() {
   return (
     <>
       <HomeHero />
-      <LogoCloud />
+      {/* <LogoCloud /> */}
 
       {/* Diagonal section separator */}
       <div className="relative w-full h-16 md:h-32 lg:h-48">

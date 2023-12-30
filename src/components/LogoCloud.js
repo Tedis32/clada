@@ -204,8 +204,7 @@ export const LogoCloud = () => {
           Trusted by pioneering entrepreneurs and businesses
         </h2>
         <p className="mt-6 text-xl text-dark-300">
-          Collaborating with various sectors, we’ve helped startups and
-          established businesses alike to flourish.
+          We work with all sectors and write all of our own code. This allows for a truly bespoke service and a product that is tailored to your needs.
         </p>
       </div>
 
