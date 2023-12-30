@@ -32,18 +32,15 @@ export const Footer = () => {
               <span className="text-white transition duration-200 ease-in-out group-hover:text-dark-300">
                 Clada{" "}
               </span>
-              <span className="transition duration-200 ease-in-out text-dark-300 group-hover:text-white">
-                Studio
-              </span>
             </Link>
           </div>
           <div className="mt-6 text-lg md:mt-8 text-dark-300">
-            © {new Date().getFullYear()} Cladatudio.
+            © {new Date().getFullYear()} Clada.
             <br /> All rights reserved.
           </div>
         </div>
         {/* Contact information */}
-        <div className="lg:mx-auto">
+        {/* <div className="lg:mx-auto">
           <h6 className="text-xl font-semibold text-white">Get in touch</h6>
           <p className="mt-2 text-lg text-dark-300">
             {contact.address.street}
@@ -53,9 +50,9 @@ export const Footer = () => {
           </p>
           <p className="mt-6 text-lg text-dark-300">{contact.phone}</p>
           <p className="text-lg text-dark-300">{contact.email}</p>
-        </div>
+        </div> */}
         {/* Site links */}
-        <div className="lg:mx-auto">
+        {/* <div className="lg:mx-auto">
           <h6 className="text-xl font-semibold text-white">Company</h6>
           <ul className="mt-2 space-y-1 text-lg">
             {footerLinks.map((link, index) => (
@@ -67,7 +64,7 @@ export const Footer = () => {
               </li>
             ))}
           </ul>
-        </div>
+        </div> */}
         {/* Social links */}
         <div className="sm:col-span-3 lg:col-span-1 lg:mx-auto">
           <h6 className="text-xl font-semibold text-white">
@@ -79,9 +76,12 @@ export const Footer = () => {
           <div className="w-full mt-4 lg:mt-6">
             {/* Social links container */}
             <div className="flex justify-start space-x-4">
-              <SocialLink href="#0" icon="instagram" />
-              <SocialLink href="#0" icon="facebook" />
-              <SocialLink href="#0" icon="twitter" />
+              {/* <SocialLink href="#0" icon="instagram" /> */}
+              <SocialLink
+                href="https://www.facebook.com/people/Clada-Software-Development-Service-Ireland/100095058110355/"
+                icon="facebook"
+              />
+              {/* <SocialLink href="#0" icon="twitter" /> */}
             </div>
           </div>
         </div>

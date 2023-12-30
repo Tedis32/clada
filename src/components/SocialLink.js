@@ -12,6 +12,7 @@ export function SocialLink({ className, href, icon, size = "lg" }) {
         className
       )}
       href={href}
+      target="#"
     >
       <SocialIcon
         name={icon}
