@@ -1,10 +1,11 @@
 ---
-name: Pantone
-shortDescription: Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget sed, convallis at tellus.
-category: Food
-image: "/stock/work/featured-work-image-04.jpg"
+name: Dagdajic
+shortDescription: Dagdajic is the regional youth center for Dagda town in far-east Latvia. We collaborated with their local government represented to provide them a simple and effective website at an extremely affordable rate.
+category: Gov
+image: "/dagdajic.jpg"
 featured: true
 date: Dec. 2021
+href: 'https://dagdajic.lv'
 stack:
   - tech: html
   - tech: tailwind

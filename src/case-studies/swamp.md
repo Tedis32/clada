@@ -1,13 +1,14 @@
 ---
-name: Sastastic
-shortDescription: Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus magna justo, lacinia eget sed, convallis at tellus.
-category: Startup
-image: "/stock/work/featured-work-image-03.jpg"
+name: The Swamp
+shortDescription: Primary product of the Seagen web3 project. A robust ERC20 token auditing tool for providing high-level insights into crypto-currencies on the Ethereum marketplace. Our original design is focused on providing a comfortable/familiar setting for people to use the platform.
+category: web3
+image: "/swamp.PNG"
 featured: true
 date: Feb. 2022
 stack:
   - tech: html
   - tech: tailwind
+href: 'https://swamp.seagen.app'
 hero:
   tagline: Case study
   headline: Innovating Audio on demand with a personal touch

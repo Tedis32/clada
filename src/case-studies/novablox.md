@@ -2,7 +2,7 @@
 name: Novablox
 shortDescription: Novablox is a web3 platform that revolutionized the NFT staking space on Fantom Opera. This high-tech build required intricate knowledge of smart contracts and on-chain processes. The original design was extremely well-received by the project community.
 category: Web3
-image: "/buildingfor 1.png"
+image: "/novablox 1.png"
 featured: true
 href: "https://novablox.ai"
 date: Jun. 2022
