@@ -4,7 +4,7 @@ shortDescription: Primary product of the Seagen web3 project. A robust ERC20 tok
 category: Web3
 image: "/swamp.PNG"
 featured: true
-date: Feb. 2022
+date: Nov. 2023
 stack:
   - tech: html
   - tech: tailwind

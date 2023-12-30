@@ -4,7 +4,7 @@ shortDescription: Dagdajic is the regional youth center for Dagda town in far-ea
 category: Gov
 image: "/dagdajic.jpg"
 featured: true
-date: Dec. 2021
+date: Oct. 2023
 href: 'https://dagdajic.lv'
 stack:
   - tech: html

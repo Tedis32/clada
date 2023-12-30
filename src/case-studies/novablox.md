@@ -5,7 +5,7 @@ category: Web3
 image: "/novablox 1.png"
 featured: true
 href: "https://novablox.ai"
-date: Jun. 2022
+date: May. 2022
 stack:
   - tech: html
   - tech: tailwind
