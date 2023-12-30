@@ -38,9 +38,9 @@ export default function HomePage() {
         </svg>
       </div>
 
-      <section className="pt-10 pb-12 bg-gradient-to-b md:pt-12 md:pb-16 from-dark-900 to-dark-800">
+      {/* <section className="pt-10 pb-12 bg-gradient-to-b md:pt-12 md:pb-16 from-dark-900 to-dark-800">
         <Process />
-      </section>
+      </section> */}
 
       {/* Featured work wrapper */}
       <section className="px-4 pt-12 pb-10 md:pb-12 md:pt-16 bg-dark-800 sm:px-6 lg:px-8">
@@ -71,7 +71,7 @@ export default function HomePage() {
         </svg>
       </div>
 
-      <SocialProof />
+      {/* <SocialProof /> */}
       <CallToAction />
     </>
   );

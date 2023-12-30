@@ -54,8 +54,8 @@ export const FeaturedWork = () => {
                 </p>
               </div>
               <div className="flex mt-8 xl:mt-4">
-                <SecondaryButton size="sm" href={`/work/${caseStudy.slug}`}>
-                  Case study
+                <SecondaryButton size="sm" href={caseStudy.href}>
+                  Check it out
                 </SecondaryButton>
               </div>
             </div>

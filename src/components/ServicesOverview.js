@@ -3,9 +3,9 @@ import clsx from "clsx";
 
 import { Icon } from "@/components/Icon";
 
-import portraitImage from "/public/stock/what-we-do-image-01.jpg";
-import squareImage1 from "/public/stock/what-we-do-image-02.jpg";
-import squareImage2 from "/public/stock/what-we-do-image-03.jpg";
+import portraitImage from "/public/unsplash/success/portrait.jpg";
+import squareImage1 from "/public/unsplash/success/womanlaughing.jpg";
+import squareImage2 from "/public/unsplash/success/peoplelaughing.jpg";
 
 const services = [
   {

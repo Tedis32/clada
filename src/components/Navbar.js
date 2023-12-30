@@ -7,6 +7,8 @@ import clsx from "clsx";
 import { Transition, Popover } from "@headlessui/react";
 
 import { PrimaryButton } from "@/components/buttons/PrimaryButton";
+import cladalogo from "/public/cladanobg.png";
+import Image from "next/image";
 
 const navbar = {
   navigation: [
@@ -121,12 +123,16 @@ export const Navbar = () => {
               href="/"
               className="block text-2xl font-black md:hidden lg:block group"
             >
-              <span className="text-white transition duration-200 ease-in-out group-hover:text-dark-300">
-                Clada{" "}
-              </span>
-              <span className="transition duration-200 ease-in-out text-dark-300 group-hover:text-white">
-                Hub
-              </span>
+              <div className="flex flex-row items-center gap-2">
+                <Image
+                  src={cladalogo}
+                  alt=""
+                  className="shadow-xl h-10 w-10"
+                />
+                <span className="text-white transition duration-200 ease-in-out group-hover:text-dark-300">
+                  Clada{" "}
+                </span>
+              </div>
             </Link>
 
             {/* Small logo for mobile screens */}

@@ -23,7 +23,7 @@ export function SecondaryButton({
   const circleClass = clsx(circleStyles, gradient);
 
   return href ? (
-    <Link href={href} className={containerClass} {...props}>
+    <Link href={href} className={containerClass} {...props} target="#">
       <span className={circleClass} />
       <span className="relative z-20">{children}</span>
     </Link>
