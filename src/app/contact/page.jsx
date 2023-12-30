@@ -2,32 +2,34 @@ import clsx from "clsx";
 
 import { PrimaryButton } from "@/components/buttons/PrimaryButton";
 import { SocialLink } from "@/components/SocialLink";
+import Image from "next/image";
+import teamImage from "/public/stock/team/team.jpg";
 
 const addresses = [
-  {
-    street: "123 West Kanye Street",
-    city: "Los Angeles",
-    state: "CA",
-    zip: 90001,
-  },
-  {
-    street: "456 East Drake Street",
-    city: "San Francisco",
-    state: "CA",
-    zip: 94111,
-  },
-  {
-    street: "789 North Weezy Street",
-    city: "New York",
-    state: "NY",
-    zip: 10001,
-  },
-  {
-    street: "101 South Hova Street",
-    city: "Miami",
-    state: "FL",
-    zip: 33101,
-  },
+  // {
+  //   street: "123 West Kanye Street",
+  //   city: "Los Angeles",
+  //   state: "CA",
+  //   zip: 90001,
+  // },
+  // {
+  //   street: "456 East Drake Street",
+  //   city: "San Francisco",
+  //   state: "CA",
+  //   zip: 94111,
+  // },
+  // {
+  //   street: "789 North Weezy Street",
+  //   city: "New York",
+  //   state: "NY",
+  //   zip: 10001,
+  // },
+  // {
+  //   street: "101 South Hova Street",
+  //   city: "Miami",
+  //   state: "FL",
+  //   zip: 33101,
+  // },
 ];
 
 const formFields = [
@@ -107,15 +109,22 @@ export default function ContactPage() {
             </div>
             {/* Social media links */}
             <div className="w-full mt-8 sm:mt-10 lg:mt-0">
-              <h6 className="text-lg font-semibold text-left text-white sm:text-center lg:text-left">
+              {/* <h6 className="text-lg font-semibold text-left text-white sm:text-center lg:text-left">
                 Follow us
-              </h6>
+              </h6> */}
               {/* Links container */}
-              <div className="flex justify-start mt-3 space-x-4 sm:justify-center lg:justify-start">
+              {/* <div className="flex justify-start mt-3 space-x-4 sm:justify-center lg:justify-start">
                 <SocialLink href="#0" icon="instagram" />
                 <SocialLink href="#0" icon="facebook" />
                 <SocialLink href="#0" icon="twitter" />
-              </div>
+              </div> */}
+              <Image
+                className="rounded-3xl"
+                src={teamImage}
+                alt="Agency team"
+                sizes="(min-width: 1024px) 64rem, 100vw"
+                priority
+              />
             </div>
           </div>
           {/* Contact form card */}
